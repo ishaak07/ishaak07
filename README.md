@@ -23,13 +23,16 @@
 
 ### 🎓 Education
 B.Tech in Computer Science and Engineering
-VIT-AP University 
+VIT-AP University | 
 
 ### 🏅 Status
-Rank Holder, Dept. of CSE, VIT-AP , 
+Rank Holder, Dept. of CSE, VIT-AP, 
 500+ LeetCode problems solved (Top 42%)
-200+ GFG problems solved 
+2500+ LeetCode GFG solved
 
+### 🚀 Launched Projects
+- **HostelConnect** — AI-Assisted Hostel Laundry Management Platform
+- **ChatHive** — AI-Powered Real-Time Chat Platform
 
 </td>
 <td valign="top" width="50%">
@@ -87,27 +90,10 @@ Rank Holder, Dept. of CSE, VIT-AP ,
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-rho.vercel.app/api?username=ishaak07&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5&bg_color=1a1b27" width="48%"/>
-<img src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=ishaak07&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&bg_color=1a1b27" width="48%"/>
+![Public Repos](https://img.shields.io/badge/dynamic/json?color=7dd3fc&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fishaak07&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ishaak07?color=7dd3fc&style=for-the-badge&label=Followers)
+![Stars](https://img.shields.io/badge/dynamic/json?color=7dd3fc&label=Total%20Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fishaak07%2Frepos&style=for-the-badge)
 
-<img src="https://streak-stats.demolab.com?user=ishaak07&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ishaak07&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaak07&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="90%"/>
 </div>
 
 ---
