@@ -17,29 +17,47 @@
 
 ## 💡 Who I Am
 
-```typescript
-const ishaKumari = {
-  title: "Full Stack Developer",
-  education: "B.Tech CSE, VIT-AP University (CGPA: 9.66)",
-  stack: {
-    languages: ["Java", "JavaScript", "SQL"],
-    web: ["Node.js", "Express.js", "React.js", "EJS", "Bootstrap"],
-    databaseAndCloud: ["MySQL", "MongoDB", "AWS", "Cloudinary"],
-    concepts: ["DSA", "OOP", "DBMS", "OS", "RESTful APIs", "Generative AI", "Prompt Engineering"],
-  },
-  launchedProjects: [
-    "HostelConnect — AI-Assisted Hostel Laundry Management Platform",
-    "ChatHive — AI-Powered Real-Time Chat Platform",
-  ],
-  certifications: [
-    "AWS Certified Cloud Practitioner",
-    "Gen AI System Design for Leaders (Infosys SpringBoard)",
-    "The Complete Full-Stack Web Development Bootcamp (Udemy)",
-  ],
-  status: "8th Rank Holder, Dept. of CSE, VIT-AP | 500+ LeetCode problems solved (Top 42%)",
-  openTo: ["Full-Time Roles", "Internships", "Collaborations", "Open Source"],
-};
-```
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🎓 Education
+B.Tech in Computer Science and Engineering
+VIT-AP University | **CGPA: 9.66**
+
+### 🏅 Status
+8th Rank Holder, Dept. of CSE, VIT-AP
+500+ LeetCode problems solved (Top 42%)
+
+### 🚀 Launched Projects
+- **HostelConnect** — AI-Assisted Hostel Laundry Management Platform
+- **ChatHive** — AI-Powered Real-Time Chat Platform
+
+</td>
+<td valign="top" width="50%">
+
+### 📜 Certifications
+- AWS Certified Cloud Practitioner
+- Gen AI System Design for Leaders *(Infosys SpringBoard)*
+- The Complete Full-Stack Web Development Bootcamp *(Udemy)*
+
+### 🎯 Open To
+`Full-Time Roles` `Internships` `Collaborations` `Open Source`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+| Category | Skills |
+|---|---|
+| **Languages** | Java · JavaScript · SQL |
+| **Web** | Node.js · Express.js · React.js · EJS · Bootstrap |
+| **Database & Cloud** | MySQL · MongoDB · AWS · Cloudinary |
+| **Concepts** | DSA · OOP · DBMS · OS · RESTful APIs · Generative AI · Prompt Engineering |
+
+</div>
 
 ---
 
