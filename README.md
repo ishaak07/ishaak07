@@ -23,10 +23,10 @@
 
 ### 🎓 Education
 B.Tech in Computer Science and Engineering
-VIT-AP University | **CGPA: 9.66**
+VIT-AP University 
 
 ### 🏅 Status
-8th Rank Holder, Dept. of CSE, VIT-AP , 
+Rank Holder, Dept. of CSE, VIT-AP , 
 500+ LeetCode problems solved (Top 42%)
 
 ### 🚀 Launched Projects
