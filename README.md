@@ -28,10 +28,8 @@ VIT-AP University
 ### 🏅 Status
 Rank Holder, Dept. of CSE, VIT-AP , 
 500+ LeetCode problems solved (Top 42%)
+200+ GFG problems solved 
 
-### 🚀 Launched Projects
-- **HostelConnect** — AI-Assisted Hostel Laundry Management Platform
-- **ChatHive** — AI-Powered Real-Time Chat Platform
 
 </td>
 <td valign="top" width="50%">
@@ -89,8 +87,8 @@ Rank Holder, Dept. of CSE, VIT-AP ,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishaak07&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5&bg_color=1a1b27&count_private=true" width="48%"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ishaak07&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&bg_color=1a1b27" width="48%"/>
+<img src="https://github-readme-stats-eight-rho.vercel.app/api?username=ishaak07&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5&bg_color=1a1b27" width="48%"/>
+<img src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=ishaak07&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&bg_color=1a1b27" width="48%"/>
 
 <img src="https://streak-stats.demolab.com?user=ishaak07&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
 
