@@ -26,7 +26,7 @@ B.Tech in Computer Science and Engineering
 VIT-AP University | **CGPA: 9.66**
 
 ### 🏅 Status
-8th Rank Holder, Dept. of CSE, VIT-AP
+8th Rank Holder, Dept. of CSE, VIT-AP , 
 500+ LeetCode problems solved (Top 42%)
 
 ### 🚀 Launched Projects
